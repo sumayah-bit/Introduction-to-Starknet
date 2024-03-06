@@ -1,0 +1,23 @@
+excite order engage balance tag skin hotel rib final glove south parrot
+
+private key: 0x06cdf181a7226aabbc0d679875ebb21f51b593aaafeb27762745963ccb8d3068
+
+Public key: 0x001d6a9bded2b8d9d74cf1e809074b74925cb9defc6498ac6ba3c0aee2a04fd5
+
+Not declaring class as it's already declared. Class hash:
+0x02d132d59e419063e9180b27a4827c327bee16f5c845ca7410b066795a5086be
+
+
+starkli deploy 0x02d132d59e419063e9180b27a4827c327bee16f5c845ca7410b066795a5086be --rpc https://starknet-testnet.public.blastapi.io/rpc/v0_6 --account stackie_account.json --keystore stackie_keystore.json 0x03966c0Cd812F4cB0559Ff7a1aEC6834d7D25F8C299C84677fba1DaA343eE9Ba 35731471428046310164841589102 1398033219 8 100000 0 0x03966c0Cd812F4cB0559Ff7a1aEC6834d7D25F8C299C84677fba1DaA343eE9Ba
+
+
+agent x wallet: 0x03966c0Cd812F4cB0559Ff7a1aEC6834d7D25F8C299C84677fba1DaA343eE9Ba
+
+Deploying class 0x02d132d59e419063e9180b27a4827c327bee16f5c845ca7410b066795a5086be with salt 0x029fe2ebfef613a0f4611a227f6e7d9ce5fe55471b33b54d9ba9582e32f8f19c...
+The contract will be deployed at address 0x06bccf56d7aa922b0d2eba3122aff392884225e682f0727a370478489ee1cd9a
+Contract deployment transaction: 0x029232fd7cea5ab27354782780b72c5310502a3d494c30410ddf9fd708264fd4
+Contract deployed:
+0x06bccf56d7aa922b0d2eba3122aff392884225e682f0727a370478489ee1cd9a
+
+
+0x75db433c92AaB9ADacaFCA43cd12F8C9221A0A70
